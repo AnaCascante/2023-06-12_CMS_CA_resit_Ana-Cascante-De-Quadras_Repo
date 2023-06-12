@@ -71,4 +71,11 @@ This is where you can add any acknowledgements if you'd like, such as to people 
 
 ## References
 
-Picture reference: Restaurant outdoors: https://picsart.com/create/editor?category=photos&app=t2i&prompt=sommer+party+restaurant&projectId=6486c39dcfb1c30011104dea summer dinner: https://picsart.com/create/editor?category=photos&app=t2i&prompt=sommer+party+restaurant&projectId=6486c39dcfb1c30011104dea
+Picture reference: 
+ - Restaurant outdoors: https://picsart.com/create/editor?category=photos&app=t2i&prompt=sommer+party+restaurant&projectId=6486c39dcfb1c30011104dea 
+ - Summer dinner: https://picsart.com/create/editor?category=photos&app=t2i&prompt=sommer+party+restaurant&projectId=6486c39dcfb1c30011104dea
+ - Chef preparing a meal: https://pixabay.com/photos/chef-odor-cook-seasoning-meal-939437/
+ - party table: https://www.pexels.com/nb-no/bilde/resepsjon-mottakelse-vinglass-bord-1114425/
+ - Summer menu: https://www.pexels.com/nb-no/bilde/bord-middagsbord-vin-kjott-541216/
+ - icon restaurant: https://app.logomakr.com/
+
