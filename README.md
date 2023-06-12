@@ -68,3 +68,7 @@ You can link to your license file here if you're using one, or mention what lice
 ## Acknowledgments
 
 This is where you can add any acknowledgements if you'd like, such as to people who have helped you or any code snippets you'd like to mention. You can delete this section if you don't have any acknowledgements to make.
+
+## References
+
+Picture reference: Restaurant outdoors: https://picsart.com/create/editor?category=photos&app=t2i&prompt=sommer+party+restaurant&projectId=6486c39dcfb1c30011104dea summer dinner: https://picsart.com/create/editor?category=photos&app=t2i&prompt=sommer+party+restaurant&projectId=6486c39dcfb1c30011104dea
