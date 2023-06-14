@@ -1,7 +1,55 @@
 const postUrl="https://fedup.learnbydoing.online/wp-json/wp/v2/posts"; 
 
-const postsContainer = document.getElementById(".postsContainer");
+const postsContainer = document.getElementById("posts");
 
+
+  fetch(postUrl)
+      .then ((response) => response.json())
+      .then ((posts) => {
+        const postItems = posts.map((post) => {
+
+          return` 
+          <div>
+            <h2>${post.title.rendered}</h2>
+            <p>${post.content.rendered}</p>
+          </div>
+          `
+        }
+        ); 
+          postsContainer.innerHTML = postItems.join("");
+      }
+      )
+    .catch((error) => {
+     
+      console.error(error);
+    });
+  
+/* to get the image out of the content - its not working--- 
+const parser = new DOMParser();
+
+function extractImagesProperly(htmlString) {
+  const doc = parser.parseFromString(htmlString, "text/html");
+  return doc.querySelectorAll("img")
+}
+
+const imgs = extractImagesProperly(post.content.rendered)*/
+
+/* another way of getting the image out of the content. 
+function extractImages(htmlString) {
+    const el = document.createElement("div");
+    el.innerHTML = htmlString;
+    return el.querySelectorAll("img")
+  }
+  
+const imgs = extractImages(post.content.rendered)*/
+
+
+
+
+
+
+
+/* this gets the promise in the console--- do not call the elements --- 
 async function getposts(){
 
 
@@ -25,7 +73,7 @@ async function getposts(){
 
 }
 
-getposts(postUrl);
+getposts(postUrl); */
 
 
 
@@ -135,4 +183,5 @@ async function fetchPosts (){
 
 fetchPosts ();
 */
+
 
