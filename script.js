@@ -10,8 +10,8 @@ const postsContainer = document.getElementById("posts");
 
           return` 
           <div>
-            <h2>${post.title.rendered}</h2>
-            <p>${post.content.rendered}</p>
+            <h2 class="postName">${post.title.rendered}</h2>
+            <p class="postContent">${post.content.rendered}</p>
           </div>
           `
         }
