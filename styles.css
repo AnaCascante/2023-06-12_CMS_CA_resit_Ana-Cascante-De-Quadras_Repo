@@ -35,6 +35,13 @@ img {
     display: flex;
 }
 
+h1{
+    font-family: 'Playfair Display', serif;
+}
+
+p {
+    font-family: 'Hind Madurai', sans-serif; 
+}
 /*--------------------*\
         FONT FAMILY 
 \*--------------------*/
