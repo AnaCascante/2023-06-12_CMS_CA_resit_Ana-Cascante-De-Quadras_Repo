@@ -1,6 +1,6 @@
 # Restaurant Fed Up
 
-![Alt text] (img\LogoMakr-9P9oJ7.jpg)
+![Alt text] (<img\LogoMakr-9P9oJ7.jpg>)
 
 In this assignement we have to get 3 blogs from a restarurant wordpress CMS. 
 
