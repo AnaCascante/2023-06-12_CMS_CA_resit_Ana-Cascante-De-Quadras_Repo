@@ -30,10 +30,9 @@ You can list a the tech stack that you've used over here
 
 Clone the repo:
 
-```bash
-git clone git@github.com:NoroffFEU/portfolio-1-example.git
-```
+https://github.com/AnaCascante/2023-06-12_CMS_CA_resit_Ana-Cascante-De-Quadras_Repo.git
 
+Wordpress CMS: https://fedup.learnbydoing.online/
 
 ## Contact
 
